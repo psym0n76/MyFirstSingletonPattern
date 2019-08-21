@@ -17,6 +17,8 @@ namespace SingletonPattern
         {
         }
 
+        //test21
+
         /// <summary> Instance with parameter </summary>
         /// <param name="param">Parameters</param>
         /// <returns>Instance</returns>
