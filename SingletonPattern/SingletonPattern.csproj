@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Examples\Bike.cs" />
     <Compile Include="Examples\Employee.cs" />
     <Compile Include="Examples\Food.cs" />
+    <Compile Include="Examples\Fruit.cs" />
+    <Compile Include="Examples\Sport.cs" />
     <Compile Include="SimpleClass.cs" />
     <Compile Include="GenericSingleton.cs" />
     <Compile Include="Examples\Person.cs" />

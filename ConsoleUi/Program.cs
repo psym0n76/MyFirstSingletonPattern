@@ -18,6 +18,16 @@ namespace ConsoleUi
             var s2 = GenericSingleton<SimpleClass>.Instance();
             var s3 = GenericSingleton<SimpleClass>.Instance();
 
+            var f = Fruit.GetInstance();
+            var f1 = Fruit.GetInstance();
+            var f2 = Fruit.GetInstance();
+            var f3 = Fruit.GetInstance();
+
+            var b = Bike.GetInstance();
+            var b1 = Bike.GetInstance();
+            var b2= Bike.GetInstance();
+            var b3 = Bike.GetInstance();
+
             Console.ReadKey();
 
         }
