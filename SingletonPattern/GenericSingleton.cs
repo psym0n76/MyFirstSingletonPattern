@@ -17,7 +17,7 @@ namespace SingletonPattern
         {
         }
 
-        //test21
+        //test21vv
 
         /// <summary> Instance with parameter </summary>
         /// <param name="param">Parameters</param>
