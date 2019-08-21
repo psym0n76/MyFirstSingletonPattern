@@ -11,7 +11,7 @@ namespace SingletonPattern
         {
         }
 
-        //small comment
+        //
 
         public static Bike GetInstance()
         {
